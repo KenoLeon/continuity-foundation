@@ -27,7 +27,7 @@ The foundational edition establishes:
 
 The PDF edition is located in: /editions/2026-foundational/
 
-[Download the 2026 Foundational Edition (PDF)](https://raw.githubusercontent.com/KenoLeon/continuity-foundation/main/editions/2026-foundational/CONTINUITY-2026-Foundational-Edition.pdf)
+[Download the 2026 Foundational Edition (PDF)](https://raw.githubusercontent.com/KenoLeon/continuity-foundation/main/editions/2026-foundational/editions/2026-foundational/CONTINUITY – 2026 Foundational Edition.pdf)
 
 
 ---
