@@ -30,6 +30,13 @@ The PDF edition is located in: /editions/2026-foundational/
 [Download the 2026 Foundational Edition (PDF)](https://raw.githubusercontent.com/KenoLeon/continuity-foundation/main/editions/2026-foundational/CONTINUITY-2026-Foundational-Edition.pdf)
 
 
+### Plaintext Archival Edition
+
+[Download Plaintext Edition](https://raw.githubusercontent.com/KenoLeon/continuity-foundation/main/editions/2026-foundational/CONTINUITY-2026-Foundational-Edition.txt)
+
+This edition is provided for maximum long-term compatibility and preservation.
+
+
 ---
 
 ## Canonical Archive
